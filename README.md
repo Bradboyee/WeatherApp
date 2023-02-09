@@ -16,7 +16,7 @@ this application is a learning how to implement clean architecure, hilt, locatio
 * dagger hilt
 * google play service location
 
-![app_screen](https://user-images.githubusercontent.com/96470193/217787958-85d19d4f-9ad2-4d7e-a9c4-5f15b8c42787.png)
+<img src="https://user-images.githubusercontent.com/96470193/217787958-85d19d4f-9ad2-4d7e-a9c4-5f15b8c42787.png" width="200">
 
 
 
